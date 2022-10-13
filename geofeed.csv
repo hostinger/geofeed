@@ -1,0 +1,257 @@
+# Hostinger International Limited 2022-10-13,,,
+# Prefixes located at Brazil,,,
+2.59.150.0/24,BR,BR-SP,Sao Paulo
+45.14.88.0/23,BR,BR-SP,Sao Paulo
+45.132.157.0/24,BR,BR-SP,Sao Paulo
+45.143.83.0/24,BR,BR-SP,Sao Paulo
+45.151.120.0/23,BR,BR-SP,Sao Paulo
+45.152.44.0/24,BR,BR-SP,Sao Paulo
+45.152.46.0/24,BR,BR-SP,Sao Paulo
+82.180.134.0/23,BR,BR-SP,Sao Paulo
+82.180.153.0/24,BR,BR-SP,Sao Paulo
+82.180.156.0/22,BR,BR-SP,Sao Paulo
+149.62.37.0/24,BR,BR-SP,Sao Paulo
+185.211.7.0/24,BR,BR-SP,Sao Paulo
+185.213.81.0/24,BR,BR-SP,Sao Paulo
+185.220.22.0/24,BR,BR-SP,Sao Paulo
+185.239.210.0/24,BR,BR-SP,Sao Paulo
+185.245.180.0/24,BR,BR-SP,Sao Paulo
+191.101.78.0/24,BR,BR-SP,Sao Paulo
+191.101.234.0/23,BR,BR-SP,Sao Paulo
+2a02:4780:13::/48,BR,BR-SP,Sao Paulo
+2a02:4780:14::/48,BR,BR-SP,Sao Paulo
+# Prefixes located at Lithuania,,,
+45.84.204.0/22,LT,LT-VL,Vilnius
+45.88.196.0/22,LT,LT-VL,Vilnius
+45.93.136.0/22,LT,LT-VL,Vilnius
+45.128.160.0/22,LT,LT-VL,Vilnius
+46.17.174.0/23,LT,LT-VL,Vilnius
+141.136.44.0/24,LT,LT-VL,Vilnius
+141.136.45.0/24,LT,LT-VL,Vilnius
+153.92.1.0/24,LT,LT-VL,Vilnius
+185.229.114.0/23,LT,LT-VL,Vilnius
+193.160.119.0/24,LT,LT-VL,Vilnius
+194.5.157.0/24,LT,LT-VL,Vilnius
+194.31.52.0/24,LT,LT-VL,Vilnius
+194.31.55.0/24,LT,LT-VL,Vilnius
+194.59.166.0/23,LT,LT-VL,Vilnius
+2a02:4780:9::/48,LT,LT-VL,Vilnius
+2a02:4780:c::/48,LT,LT-VL,Vilnius
+# Prefixes located at Indonesia,,,
+153.92.8.0/21,ID,ID-JK,Jakarta
+191.101.2.0/24,ID,ID-JK,Jakarta
+2a02:4780:6::/48,ID,ID-JK,Jakarta
+# Prefixes located at United Kingdom,,,
+2.57.90.0/24,GB,GB-MAN,Manchester
+5.180.60.0/24,GB,GB-MAN,Manchester
+5.182.18.0/24,GB,GB-MAN,Manchester
+31.170.164.0/24,GB,GB-MAN,Manchester
+31.187.72.0/24,GB,GB-MAN,Manchester
+31.220.23.0/24,GB,GB-MAN,Manchester
+31.220.106.0/24,GB,GB-MAN,Manchester
+31.220.111.0/24,GB,GB-MAN,Manchester
+82.180.154.0/24,GB,GB-MAN,Manchester
+141.136.33.0/24,GB,GB-MAN,Manchester
+141.136.34.0/24,GB,GB-MAN,Manchester
+141.136.35.0/24,GB,GB-MAN,Manchester
+141.136.36.0/24,GB,GB-MAN,Manchester
+141.136.39.0/24,GB,GB-MAN,Manchester
+141.136.41.0/24,GB,GB-MAN,Manchester
+141.136.42.0/24,GB,GB-MAN,Manchester
+141.136.43.0/24,GB,GB-MAN,Manchester
+145.14.152.0/22,GB,GB-MAN,Manchester
+153.92.6.0/24,GB,GB-MAN,Manchester
+153.92.7.0/24,GB,GB-MAN,Manchester
+153.92.208.0/22,GB,GB-MAN,Manchester
+185.28.20.0/24,GB,GB-MAN,Manchester
+185.77.97.0/24,GB,GB-MAN,Manchester
+191.101.80.0/23,GB,GB-MAN,Manchester
+194.11.154.0/23,GB,GB-MAN,Manchester
+195.110.58.0/23,GB,GB-MAN,Manchester
+217.21.68.0/22,GB,GB-MAN,Manchester
+2a02:4780:a::/48,GB,GB-MAN,Manchester
+2a02:4780:f::/48,GB,GB-MAN,Manchester
+2a02:4780:25::/48,GB,GB-MAN,Manchester
+2a02:4780:26::/48,GB,GB-MAN,Manchester
+# Prefixes located at United States (Asheville),,,
+2.57.91.0/24,US,US-NC,Asheville
+5.181.218.0/24,US,US-NC,Asheville
+5.183.8.0/22,US,US-NC,Asheville
+31.170.160.0/22,US,US-NC,Asheville
+31.170.165.0/24,US,US-NC,Asheville
+31.170.166.0/23,US,US-NC,Asheville
+31.220.16.0/24,US,US-NC,Asheville
+31.220.17.0/24,US,US-NC,Asheville
+31.220.18.0/24,US,US-NC,Asheville
+31.220.19.0/24,US,US-NC,Asheville
+31.220.20.0/23,US,US-NC,Asheville
+31.220.22.0/24,US,US-NC,Asheville
+31.220.31.0/24,US,US-NC,Asheville
+31.220.48.0/20,US,US-NC,Asheville
+31.220.104.0/24,US,US-NC,Asheville
+31.220.105.0/24,US,US-NC,Asheville
+31.220.107.0/24,US,US-NC,Asheville
+31.220.108.0/24,US,US-NC,Asheville
+31.220.109.0/24,US,US-NC,Asheville
+37.44.246.0/23,US,US-NC,Asheville
+45.13.134.0/23,US,US-NC,Asheville
+45.15.24.0/22,US,US-NC,Asheville
+45.80.152.0/22,US,US-NC,Asheville
+45.82.72.0/22,US,US-NC,Asheville
+45.89.204.0/22,US,US-NC,Asheville
+45.90.108.0/22,US,US-NC,Asheville
+45.90.220.0/24,US,US-NC,Asheville
+45.93.100.0/22,US,US-NC,Asheville
+45.132.240.0/22,US,US-NC,Asheville
+77.243.85.0/24,US,US-NC,Asheville
+83.136.218.0/23,US,US-NC,Asheville
+92.249.44.0/23,US,US-NC,Asheville
+92.249.46.0/23,US,US-NC,Asheville
+93.188.160.0/21,US,US-NC,Asheville
+109.106.248.0/22,US,US-NC,Asheville
+141.136.46.0/24,US,US-NC,Asheville
+145.14.144.0/23,US,US-NC,Asheville
+145.14.146.0/23,US,US-NC,Asheville
+149.62.39.0/24,US,US-NC,Asheville
+151.106.96.0/20,US,US-NC,Asheville
+153.92.0.0/24,US,US-NC,Asheville
+153.92.212.0/22,US,US-NC,Asheville
+160.238.36.0/24,US,US-NC,Asheville
+185.28.21.0/24,US,US-NC,Asheville
+185.28.22.0/24,US,US-NC,Asheville
+185.28.23.0/24,US,US-NC,Asheville
+185.201.10.0/23,US,US-NC,Asheville
+185.206.162.0/23,US,US-NC,Asheville
+185.211.4.0/24,US,US-NC,Asheville
+185.214.126.0/23,US,US-NC,Asheville
+193.42.137.0/24,US,US-NC,Asheville
+193.46.196.0/22,US,US-NC,Asheville
+193.160.64.0/23,US,US-NC,Asheville
+194.11.214.0/23,US,US-NC,Asheville
+195.179.238.0/23,US,US-NC,Asheville
+212.1.208.0/21,US,US-NC,Asheville
+212.107.18.0/23,US,US-NC,Asheville
+213.190.5.0/24,US,US-NC,Asheville
+213.190.6.0/24,US,US-NC,Asheville
+213.190.7.0/24,US,US-NC,Asheville
+2a02:4780:1::/48,US,US-NC,Asheville
+2a02:4780:2::/48,US,US-NC,Asheville
+# Prefixes located at India,,,
+82.180.140.0/22,IN,IN-MH,Mumbai
+82.180.164.0/22,IN,IN-MH,Mumbai
+217.21.80.0/20,IN,IN-MH,Mumbai
+2a02:4780:11::/48,IN,IN-MH,Mumbai
+2a02:4780:12::/48,IN,IN-MH,Mumbai
+# Prefixes located at Singapore,,,
+5.181.216.0/23,SG,SG-01,Singapore
+31.187.75.0/24,SG,SG-01,Singapore
+31.220.6.0/24,SG,SG-01,Singapore
+31.220.110.0/24,SG,SG-01,Singapore
+37.44.244.0/23,SG,SG-01,Singapore
+45.13.132.0/23,SG,SG-01,Singapore
+45.13.254.0/23,SG,SG-01,Singapore
+45.80.180.0/22,SG,SG-01,Singapore
+45.90.228.0/22,SG,SG-01,Singapore
+45.130.228.0/22,SG,SG-01,Singapore
+45.143.80.0/23,SG,SG-01,Singapore
+46.17.172.0/23,SG,SG-01,Singapore
+82.180.152.0/24,SG,SG-01,Singapore
+83.136.216.0/23,SG,SG-01,Singapore
+109.106.252.0/22,SG,SG-01,Singapore
+141.136.47.0/24,SG,SG-01,Singapore
+151.106.112.0/20,SG,SG-01,Singapore
+153.92.4.0/23,SG,SG-01,Singapore
+156.67.208.0/20,SG,SG-01,Singapore
+179.61.188.0/24,SG,SG-01,Singapore
+179.61.189.0/24,SG,SG-01,Singapore
+185.187.240.0/23,SG,SG-01,Singapore
+185.201.8.0/23,SG,SG-01,Singapore
+185.210.144.0/22,SG,SG-01,Singapore
+185.214.124.0/23,SG,SG-01,Singapore
+185.229.112.0/23,SG,SG-01,Singapore
+185.229.118.0/24,SG,SG-01,Singapore
+185.232.14.0/24,SG,SG-01,Singapore
+185.237.144.0/23,SG,SG-01,Singapore
+185.249.224.0/24,SG,SG-01,Singapore
+191.96.57.0/24,SG,SG-01,Singapore
+191.101.3.0/24,SG,SG-01,Singapore
+191.101.228.0/24,SG,SG-01,Singapore
+191.101.229.0/24,SG,SG-01,Singapore
+191.101.230.0/24,SG,SG-01,Singapore
+193.168.192.0/22,SG,SG-01,Singapore
+194.31.53.0/24,SG,SG-01,Singapore
+194.59.164.0/23,SG,SG-01,Singapore
+194.163.32.0/21,SG,SG-01,Singapore
+194.163.40.0/22,SG,SG-01,Singapore
+213.190.4.0/24,SG,SG-01,Singapore
+217.21.72.0/22,SG,SG-01,Singapore
+2a02:4780:3::/48,SG,SG-01,Singapore
+2a02:4780:e::/48,SG,SG-01,Singapore
+2a02:4780:15::/48,SG,SG-01,Singapore
+2a02:4780:16::/48,SG,SG-01,Singapore
+# Prefixes located at United States (Phoenix),,,
+45.90.223.0/24,US,US-AZ,Phoenix
+82.180.128.0/23,US,US-AZ,Phoenix
+82.180.130.0/23,US,US-AZ,Phoenix
+82.180.132.0/23,US,US-AZ,Phoenix
+82.180.136.0/22,US,US-AZ,Phoenix
+82.180.160.0/22,US,US-AZ,Phoenix
+82.180.168.0/22,US,US-AZ,Phoenix
+82.180.172.0/22,US,US-AZ,Phoenix
+156.67.64.0/20,US,US-AZ,Phoenix
+185.212.70.0/23,US,US-AZ,Phoenix
+185.214.132.0/23,US,US-AZ,Phoenix
+191.96.31.0/24,US,US-AZ,Phoenix
+191.96.54.0/24,US,US-AZ,Phoenix
+191.96.56.0/24,US,US-AZ,Phoenix
+191.101.0.0/24,US,US-AZ,Phoenix
+191.101.1.0/24,US,US-AZ,Phoenix
+191.101.12.0/22,US,US-AZ,Phoenix
+191.101.79.0/24,US,US-AZ,Phoenix
+191.101.232.0/23,US,US-AZ,Phoenix
+193.43.134.0/24,US,US-AZ,Phoenix
+194.113.64.0/24,US,US-AZ,Phoenix
+194.163.44.0/22,US,US-AZ,Phoenix
+194.195.84.0/24,US,US-AZ,Phoenix
+194.195.86.0/24,US,US-AZ,Phoenix
+194.195.92.0/24,US,US-AZ,Phoenix
+195.179.236.0/23,US,US-AZ,Phoenix
+217.21.64.0/22,US,US-AZ,Phoenix
+217.21.76.0/22,US,US-AZ,Phoenix
+2a02:4780:b::/48,US,US-AZ,Phoenix
+2a02:4780:10::/48,US,US-AZ,Phoenix
+# Prefixes located at Netherlands,,,
+2.57.88.0/23,NL,NL-DR,Meppel
+31.187.76.0/24,NL,NL-DR,Meppel
+45.9.188.0/22,NL,NL-DR,Meppel
+45.13.252.0/23,NL,NL-DR,Meppel
+45.87.80.0/22,NL,NL-DR,Meppel
+45.93.124.0/22,NL,NL-DR,Meppel
+45.95.180.0/22,NL,NL-DR,Meppel
+81.16.28.0/22,NL,NL-DR,Meppel
+82.180.155.0/24,NL,NL-DR,Meppel
+109.106.240.0/21,NL,NL-DR,Meppel
+145.14.148.0/22,NL,NL-DR,Meppel
+145.14.156.0/22,NL,NL-DR,Meppel
+153.92.216.0/21,NL,NL-DR,Meppel
+179.61.219.0/24,NL,NL-DR,Meppel
+179.61.246.0/24,NL,NL-DR,Meppel
+185.77.96.0/24,NL,NL-DR,Meppel
+185.166.188.0/24,NL,NL-DR,Meppel
+185.206.160.0/23,NL,NL-DR,Meppel
+185.224.136.0/22,NL,NL-DR,Meppel
+185.237.146.0/23,NL,NL-DR,Meppel
+191.96.1.0/24,NL,NL-DR,Meppel
+191.96.53.0/24,NL,NL-DR,Meppel
+191.96.63.0/24,NL,NL-DR,Meppel
+191.101.231.0/24,NL,NL-DR,Meppel
+193.42.136.0/24,NL,NL-DR,Meppel
+193.160.66.0/23,NL,NL-DR,Meppel
+194.5.156.0/24,NL,NL-DR,Meppel
+194.5.158.0/24,NL,NL-DR,Meppel
+194.5.159.0/24,NL,NL-DR,Meppel
+194.31.150.0/24,NL,NL-DR,Meppel
+195.179.193.0/24,NL,NL-DR,Meppel
+212.107.16.0/23,NL,NL-DR,Meppel
+2a02:4780:8::/48,NL,NL-DR,Meppel
+2a02:4780:d::/48,NL,NL-DR,Meppel
