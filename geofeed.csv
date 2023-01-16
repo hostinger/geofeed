@@ -277,3 +277,12 @@
 212.107.16.0/23,NL,NL-DR,Meppel
 2a02:4780:8::/48,NL,NL-DR,Meppel
 2a02:4780:d::/48,NL,NL-DR,Meppel
+# Prefixes located at Netherlands,,,
+89.116.146.0/23,FR,FR-75C,Paris
+89.117.102.0/23,FR,FR-75C,Paris
+89.117.116.0/23,FR,FR-75C,Paris
+89.117.168.0/23,FR,FR-75C,Paris
+2a02:4780:27::/48,FR,FR-75C,Paris
+2a02:4780:28::/48,FR,FR-75C,Paris
+2a02:4780:29::/48,FR,FR-75C,Paris
+2a02:4780:2a::/48,FR,FR-75C,Paris
