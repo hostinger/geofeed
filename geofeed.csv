@@ -154,6 +154,8 @@
 # Prefixes located at India,,,
 82.180.140.0/22,IN,IN-MH,Mumbai
 82.180.164.0/22,IN,IN-MH,Mumbai
+89.117.27.0/24,IN,IN-MH,Mumbai
+89.117.157.0/24,IN,IN-MH,Mumbai
 89.117.188.0/24,IN,IN-MH,Mumbai
 89.117.245.0/24,IN,IN-MH,Mumbai
 191.96.159.0/24,IN,IN-MH,Mumbai
