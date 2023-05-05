@@ -1,4 +1,4 @@
-# Hostinger International Limited 2023-05-03,,,
+# Hostinger International Limited 2023-05-05,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -84,6 +84,7 @@
 153.92.6.0/24,GB,GB-MAN,Manchester
 153.92.7.0/24,GB,GB-MAN,Manchester
 153.92.208.0/22,GB,GB-MAN,Manchester
+154.41.238.0/23,GB,GB-MAN,Manchester
 154.49.138.0/23,GB,GB-MAN,Manchester
 185.28.20.0/24,GB,GB-MAN,Manchester
 185.77.97.0/24,GB,GB-MAN,Manchester
@@ -238,6 +239,7 @@
 89.116.239.0/24,US,US-AZ,Phoenix
 89.117.8.0/23,US,US-AZ,Phoenix
 89.117.139.0/24,US,US-AZ,Phoenix
+154.41.228.0/22,US,US-AZ,Phoenix
 154.49.140.0/22,US,US-AZ,Phoenix
 154.49.240.0/23,US,US-AZ,Phoenix
 156.67.64.0/20,US,US-AZ,Phoenix
