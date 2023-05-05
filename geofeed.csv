@@ -167,11 +167,14 @@
 89.117.188.0/24,IN,IN-MH,Mumbai
 89.117.245.0/24,IN,IN-MH,Mumbai
 149.100.146.0/23,IN,IN-MH,Mumbai
+154.41.232.0/22,IN,IN-MH,Mumbai
 154.49.242.0/23,IN,IN-MH,Mumbai
 191.96.159.0/24,IN,IN-MH,Mumbai
 217.21.80.0/20,IN,IN-MH,Mumbai
 2a02:4780:11::/48,IN,IN-MH,Mumbai
 2a02:4780:12::/48,IN,IN-MH,Mumbai
+2a02:4780:1f::/48,IN,IN-MH,Mumbai
+2a02:4780:20::/48,IN,IN-MH,Mumbai
 # Prefixes located at Singapore,,,
 5.181.216.0/23,SG,SG-01,Singapore
 31.187.75.0/24,SG,SG-01,Singapore
