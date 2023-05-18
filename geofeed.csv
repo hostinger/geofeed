@@ -146,6 +146,9 @@
 149.62.39.0/24,US,US-NC,Asheville
 151.106.96.0/20,US,US-NC,Asheville
 153.92.212.0/22,US,US-NC,Asheville
+154.41.250.0/24,US,US-NC,Asheville
+154.62.106.0/24,US,US-NC,Asheville
+154.62.110.0/23,US,US-NC,Asheville
 160.238.36.0/24,US,US-NC,Asheville
 185.28.21.0/24,US,US-NC,Asheville
 185.28.22.0/24,US,US-NC,Asheville
@@ -167,6 +170,8 @@
 213.190.7.0/24,US,US-NC,Asheville
 2a02:4780:1::/48,US,US-NC,Asheville
 2a02:4780:2::/48,US,US-NC,Asheville
+2a02:4780:1d::/48,US,US-NC,Asheville
+2a02:4780:1e::/48,US,US-NC,Asheville
 # Prefixes located at India,,,
 82.180.140.0/22,IN,IN-MH,Mumbai
 82.180.164.0/22,IN,IN-MH,Mumbai
