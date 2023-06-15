@@ -1,4 +1,4 @@
-# Hostinger International Limited 2023-05-31,,,
+# Hostinger International Limited 2023-06-15,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -23,6 +23,7 @@
 154.41.224.0/22,BR,BR-SP,Sao Paulo
 154.49.246.0/23,BR,BR-SP,Sao Paulo
 154.56.40.0/22,BR,BR-SP,Sao Paulo
+154.56.48.0/22,BR,BR-SP,Sao Paulo
 185.211.7.0/24,BR,BR-SP,Sao Paulo
 185.213.81.0/24,BR,BR-SP,Sao Paulo
 181.215.134.0/23,BR,BR-SP,Sao Paulo
@@ -51,6 +52,7 @@
 153.92.1.0/24,LT,LT-VL,Vilnius
 154.41.248.0/24,LT,LT-VL,Vilnius
 154.49.136.0/23,LT,LT-VL,Vilnius
+154.56.62.0/23,LT,LT-VL,Vilnius
 154.62.104.0/24,LT,LT-VL,Vilnius
 154.62.108.0/23,LT,LT-VL,Vilnius
 185.229.114.0/23,LT,LT-VL,Vilnius
@@ -217,6 +219,7 @@
 151.106.112.0/20,SG,SG-01,Singapore
 153.92.4.0/23,SG,SG-01,Singapore
 154.41.251.0/24,SG,SG-01,Singapore
+154.56.38.0/23,SG,SG-01,Singapore
 154.62.107.0/24,SG,SG-01,Singapore
 156.67.208.0/20,SG,SG-01,Singapore
 179.61.188.0/24,SG,SG-01,Singapore
@@ -266,6 +269,7 @@
 154.49.140.0/22,US,US-AZ,Phoenix
 154.49.240.0/23,US,US-AZ,Phoenix
 154.56.36.0/23,US,US-AZ,Phoenix
+154.56.60.0/23,US,US-AZ,Phoenix
 156.67.64.0/20,US,US-AZ,Phoenix
 185.212.70.0/23,US,US-AZ,Phoenix
 185.214.132.0/23,US,US-AZ,Phoenix
@@ -350,6 +354,7 @@
 154.41.236.0/23,FR,FR-75C,Paris
 154.49.244.0/23,FR,FR-75C,Paris
 154.56.44.0/22,FR,FR-75C,Paris
+154.56.56.0/22,FR,FR-75C,Paris
 2a02:4780:27::/48,FR,FR-75C,Paris
 2a02:4780:28::/48,FR,FR-75C,Paris
 2a02:4780:29::/48,FR,FR-75C,Paris
