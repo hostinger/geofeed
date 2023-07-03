@@ -1,4 +1,4 @@
-# Hostinger International Limited 2023-06-16,,,
+# Hostinger International Limited 2023-07-03,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -68,6 +68,8 @@
 2a02:4780:1a::/48,LT,LT-VL,Vilnius
 # Prefixes located at Indonesia,,,
 153.92.8.0/21,ID,ID-JK,Jakarta
+154.41.240.0/23,ID,ID-JK,Jakarta
+154.41.242.0/24,ID,ID-JK,Jakarta
 154.41.243.0/24,ID,ID-JK,Jakarta
 2a02:4780:6::/48,ID,ID-JK,Jakarta
 2a02:4780:1b::/48,ID,ID-JK,Jakarta
