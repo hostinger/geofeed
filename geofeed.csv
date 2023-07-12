@@ -1,4 +1,4 @@
-# Hostinger International Limited 2023-07-10,,,
+# Hostinger International Limited 2023-07-12,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -7,6 +7,7 @@
 45.151.120.0/23,BR,BR-SP,Sao Paulo
 45.152.44.0/24,BR,BR-SP,Sao Paulo
 45.152.46.0/24,BR,BR-SP,Sao Paulo
+62.72.8.0/22,BR,BR-SP,Sao Paulo
 82.180.134.0/23,BR,BR-SP,Sao Paulo
 82.180.153.0/24,BR,BR-SP,Sao Paulo
 82.180.156.0/22,BR,BR-SP,Sao Paulo
@@ -43,6 +44,7 @@
 45.93.136.0/22,LT,LT-VL,Vilnius
 45.128.160.0/22,LT,LT-VL,Vilnius
 46.17.174.0/23,LT,LT-VL,Vilnius
+62.72.20.0/22,LT,LT-VL,Vilnius
 84.32.84.0/24,LT,LT-VL,Vilnius
 89.116.236.0/24,LT,LT-VL,Vilnius
 92.242.187.0/24,LT,LT-VL,Vilnius
@@ -180,6 +182,7 @@
 2a02:4780:1d::/48,US,US-NC,Asheville
 2a02:4780:1e::/48,US,US-NC,Asheville
 # Prefixes located at India,,,
+62.72.12.0/22,IN,IN-MH,Mumbai
 82.180.140.0/22,IN,IN-MH,Mumbai
 82.180.164.0/22,IN,IN-MH,Mumbai
 89.117.27.0/24,IN,IN-MH,Mumbai
@@ -255,6 +258,7 @@
 2a02:4780:16::/48,SG,SG-01,Singapore
 # Prefixes located at United States (Phoenix),,,
 45.90.223.0/24,US,US-AZ,Phoenix
+62.72.0.0/21,US,US-AZ,Phoenix
 82.180.128.0/23,US,US-AZ,Phoenix
 82.180.130.0/23,US,US-AZ,Phoenix
 82.180.132.0/23,US,US-AZ,Phoenix
@@ -349,6 +353,7 @@
 2a02:4780:23::/48,NL,NL-DR,Meppel
 2a02:4780:24::/48,NL,NL-DR,Meppel
 # Prefixes located at France,,,
+62.72.16.0/22,FR,FR-75C,Paris
 89.116.146.0/23,FR,FR-75C,Paris
 89.117.102.0/23,FR,FR-75C,Paris
 89.117.116.0/23,FR,FR-75C,Paris
