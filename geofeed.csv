@@ -259,6 +259,7 @@
 # Prefixes located at United States (Phoenix),,,
 45.90.223.0/24,US,US-AZ,Phoenix
 62.72.0.0/21,US,US-AZ,Phoenix
+62.72.24.0/22,US,US-AZ,Phoenix
 82.180.128.0/23,US,US-AZ,Phoenix
 82.180.130.0/23,US,US-AZ,Phoenix
 82.180.132.0/23,US,US-AZ,Phoenix
