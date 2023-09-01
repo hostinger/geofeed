@@ -1,4 +1,4 @@
-# Hostinger International Limited 2023-08-24,,,
+# Hostinger International Limited 2023-09-01,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -38,6 +38,7 @@
 191.101.70.0/23,BR,BR-SP,Sao Paulo
 191.101.78.0/24,BR,BR-SP,Sao Paulo
 191.101.234.0/23,BR,BR-SP,Sao Paulo
+193.203.174.0/23,BR,BR-SP,Sao Paulo
 2a02:4780:13::/48,BR,BR-SP,Sao Paulo
 2a02:4780:14::/48,BR,BR-SP,Sao Paulo
 # Prefixes located at Lithuania,,,
@@ -77,6 +78,7 @@
 154.41.240.0/23,ID,ID-JK,Jakarta
 154.41.242.0/24,ID,ID-JK,Jakarta
 154.41.243.0/24,ID,ID-JK,Jakarta
+193.203.172.0/23,ID,ID-JK,Jakarta
 2a02:4780:6::/48,ID,ID-JK,Jakarta
 2a02:4780:1b::/48,ID,ID-JK,Jakarta
 2a02:4780:1c::/48,ID,ID-JK,Jakarta
@@ -202,6 +204,7 @@
 154.49.242.0/23,IN,IN-MH,Mumbai
 154.56.52.0/22,IN,IN-MH,Mumbai
 191.96.159.0/24,IN,IN-MH,Mumbai
+193.203.160.0/22,IN,IN-MH,Mumbai
 217.21.80.0/20,IN,IN-MH,Mumbai
 2a02:4780:11::/48,IN,IN-MH,Mumbai
 2a02:4780:12::/48,IN,IN-MH,Mumbai
@@ -304,6 +307,7 @@
 191.101.104.0/24,US,US-AZ,Phoenix
 191.101.232.0/23,US,US-AZ,Phoenix
 193.43.134.0/24,US,US-AZ,Phoenix
+193.203.164.0/22,US,US-AZ,Phoenix
 194.113.64.0/24,US,US-AZ,Phoenix
 194.163.44.0/22,US,US-AZ,Phoenix
 194.195.84.0/24,US,US-AZ,Phoenix
@@ -375,6 +379,7 @@
 154.41.236.0/23,FR,FR-75C,Paris
 154.49.244.0/23,FR,FR-75C,Paris
 154.56.56.0/22,FR,FR-75C,Paris
+193.203.168.0/22,FR,FR-75C,Paris
 2a02:4780:27::/48,FR,FR-75C,Paris
 2a02:4780:28::/48,FR,FR-75C,Paris
 2a02:4780:29::/48,FR,FR-75C,Paris
