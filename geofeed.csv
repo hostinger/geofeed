@@ -1,4 +1,4 @@
-# Hostinger International Limited 2023-09-11,,,
+# Hostinger International Limited 2023-09-15,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -70,6 +70,7 @@
 194.31.52.0/24,LT,LT-VL,Vilnius
 194.31.55.0/24,LT,LT-VL,Vilnius
 194.59.166.0/23,LT,LT-VL,Vilnius
+195.35.56.0/22,LT,LT-VL,Vilnius
 2a02:4780:9::/48,LT,LT-VL,Vilnius
 2a02:4780:c::/48,LT,LT-VL,Vilnius
 2a02:4780:19::/48,LT,LT-VL,Vilnius
@@ -80,6 +81,7 @@
 154.41.242.0/24,ID,ID-JK,Jakarta
 154.41.243.0/24,ID,ID-JK,Jakarta
 193.203.172.0/23,ID,ID-JK,Jakarta
+195.35.54.0/23,ID,ID-JK,Jakarta
 2a02:4780:6::/48,ID,ID-JK,Jakarta
 2a02:4780:1b::/48,ID,ID-JK,Jakarta
 2a02:4780:1c::/48,ID,ID-JK,Jakarta
@@ -114,6 +116,7 @@
 185.77.97.0/24,GB,GB-MAN,Manchester
 191.101.80.0/23,GB,GB-MAN,Manchester
 194.11.154.0/23,GB,GB-MAN,Manchester
+195.35.50.0/23,GB,GB-MAN,Manchester
 195.110.58.0/23,GB,GB-MAN,Manchester
 217.21.68.0/22,GB,GB-MAN,Manchester
 2a02:4780:a::/48,GB,GB-MAN,Manchester
@@ -178,6 +181,7 @@
 193.46.196.0/22,US,US-NC,Asheville
 193.160.64.0/23,US,US-NC,Asheville
 194.11.214.0/23,US,US-NC,Asheville
+195.35.60.0/23,US,US-NC,Asheville
 195.179.238.0/23,US,US-NC,Asheville
 212.1.208.0/21,US,US-NC,Asheville
 212.107.18.0/23,US,US-NC,Asheville
@@ -206,6 +210,7 @@
 154.56.52.0/22,IN,IN-MH,Mumbai
 191.96.159.0/24,IN,IN-MH,Mumbai
 193.203.160.0/22,IN,IN-MH,Mumbai
+193.203.184.0/22,IN,IN-MH,Mumbai
 217.21.80.0/20,IN,IN-MH,Mumbai
 2a02:4780:11::/48,IN,IN-MH,Mumbai
 2a02:4780:12::/48,IN,IN-MH,Mumbai
@@ -260,6 +265,7 @@
 194.59.164.0/23,SG,SG-01,Singapore
 194.163.32.0/21,SG,SG-01,Singapore
 194.163.40.0/22,SG,SG-01,Singapore
+195.35.62.0/23,SG,SG-01,Singapore
 213.190.4.0/24,SG,SG-01,Singapore
 217.21.72.0/22,SG,SG-01,Singapore
 2a02:4780:3::/48,SG,SG-01,Singapore
@@ -362,6 +368,7 @@
 194.5.158.0/24,NL,NL-DR,Meppel
 194.5.159.0/24,NL,NL-DR,Meppel
 194.31.150.0/24,NL,NL-DR,Meppel
+195.35.52.0/23,NL,NL-DR,Meppel
 195.179.193.0/24,NL,NL-DR,Meppel
 212.107.16.0/23,NL,NL-DR,Meppel
 2a02:4780:8::/48,NL,NL-DR,Meppel
@@ -382,6 +389,7 @@
 154.49.244.0/23,FR,FR-75C,Paris
 154.56.56.0/22,FR,FR-75C,Paris
 193.203.168.0/22,FR,FR-75C,Paris
+193.203.188.0/22,FR,FR-75C,Paris
 2a02:4780:27::/48,FR,FR-75C,Paris
 2a02:4780:28::/48,FR,FR-75C,Paris
 2a02:4780:29::/48,FR,FR-75C,Paris
