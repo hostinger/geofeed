@@ -1,4 +1,4 @@
-# Hostinger International Limited 2024-03-27,,,
+# Hostinger International Limited 2024-04-02,,,
 # Prefixes located at Brazil,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo
 45.14.88.0/23,BR,BR-SP,Sao Paulo
@@ -69,6 +69,8 @@
 2a02:4780:14::/48,BR,BR-SP,Sao Paulo
 2a02:4780:17::/48,BR,BR-SP,Sao Paulo
 2a02:4780:18::/48,BR,BR-SP,Sao Paulo
+2a02:4780:2e::/48,BR,BR-SP,Sao Paulo
+2a02:4780:2f::/48,BR,BR-SP,Sao Paulo
 # Prefixes located at Lithuania,,,
 45.84.204.0/22,LT,LT-VL,Vilnius
 45.88.196.0/22,LT,LT-VL,Vilnius
@@ -112,6 +114,8 @@
 2a02:4780:c::/48,LT,LT-VL,Vilnius
 2a02:4780:19::/48,LT,LT-VL,Vilnius
 2a02:4780:1a::/48,LT,LT-VL,Vilnius
+2a02:4780:30::/48,LT,LT-VL,Vilnius
+2a02:4780:31::/48,LT,LT-VL,Vilnius
 # Prefixes located at Indonesia,,,
 77.37.78.0/23,ID,ID-JK,Jakarta
 77.37.80.0/23,ID,ID-JK,Jakarta
@@ -131,6 +135,8 @@
 2a02:4780:6::/48,ID,ID-JK,Jakarta
 2a02:4780:1b::/48,ID,ID-JK,Jakarta
 2a02:4780:1c::/48,ID,ID-JK,Jakarta
+2a02:4780:3a::/48,ID,ID-JK,Jakarta
+2a02:4780:3b::/48,ID,ID-JK,Jakarta
 # Prefixes located at United Kingdom,,,
 2.57.90.0/24,GB,GB-MAN,Manchester
 5.180.60.0/24,GB,GB-MAN,Manchester
@@ -181,6 +187,8 @@
 2a02:4780:f::/48,GB,GB-MAN,Manchester
 2a02:4780:25::/48,GB,GB-MAN,Manchester
 2a02:4780:26::/48,GB,GB-MAN,Manchester
+2a02:4780:34::/48,GB,GB-MAN,Manchester
+2a02:4780:35::/48,GB,GB-MAN,Manchester
 # Prefixes located at United States (Asheville),,,
 2.57.91.0/24,US,US-NC,Asheville
 5.181.218.0/24,US,US-NC,Asheville
@@ -295,6 +303,8 @@
 2a02:4780:12::/48,IN,IN-MH,Mumbai
 2a02:4780:1f::/48,IN,IN-MH,Mumbai
 2a02:4780:20::/48,IN,IN-MH,Mumbai
+2a02:4780:3c::/48,IN,IN-MH,Mumbai
+2a02:4780:3d::/48,IN,IN-MH,Mumbai
 # Prefixes located at Singapore,,,
 5.181.216.0/23,SG,SG-01,Singapore
 31.187.75.0/24,SG,SG-01,Singapore
@@ -359,6 +369,8 @@
 2a02:4780:e::/48,SG,SG-01,Singapore
 2a02:4780:15::/48,SG,SG-01,Singapore
 2a02:4780:16::/48,SG,SG-01,Singapore
+2a02:4780:38::/48,SG,SG-01,Singapore
+2a02:4780:39::/48,SG,SG-01,Singapore
 # Prefixes located at United States (Phoenix),,,
 31.220.18.0/24,US,US-AZ,Phoenix
 31.220.22.0/24,US,US-AZ,Phoenix
@@ -509,6 +521,8 @@
 2a02:4780:d::/48,NL,NL-DR,Meppel
 2a02:4780:23::/48,NL,NL-DR,Meppel
 2a02:4780:24::/48,NL,NL-DR,Meppel
+2a02:4780:32::/48,NL,NL-DR,Meppel
+2a02:4780:33::/48,NL,NL-DR,Meppel
 # Prefixes located at France,,,
 45.13.252.0/23,FR,FR-75C,Paris
 45.133.178.0/24,FR,FR-75C,Paris
@@ -567,6 +581,8 @@
 2a02:4780:28::/48,FR,FR-75C,Paris
 2a02:4780:29::/48,FR,FR-75C,Paris
 2a02:4780:2a::/48,FR,FR-75C,Paris
+2a02:4780:36::/48,FR,FR-75C,Paris
+2a02:4780:37::/48,FR,FR-75C,Paris
 # Prefixes located at United States (Boston),,,
 82.197.80.0/21,US,US-MA,Boston
 217.15.168.0/21,US,US-MA,Boston
