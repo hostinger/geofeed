@@ -1,4 +1,4 @@
-# Hostinger International Limited 2024-05-03,,,,
+# Hostinger International Limited 2024-05-08,,,,
 # Prefixes located at Brazil,,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo,
 45.14.88.0/23,BR,BR-SP,Sao Paulo,
@@ -67,6 +67,7 @@
 193.203.180.0/22,BR,BR-SP,Sao Paulo,
 195.35.16.0/22,BR,BR-SP,Sao Paulo,
 195.35.40.0/22,BR,BR-SP,Sao Paulo,
+195.200.0.0/21,BR,BR-SP,Sao Paulo,
 217.196.56.0/21,BR,BR-SP,Sao Paulo,
 223.27.112.0/24,BR,BR-SP,Sao Paulo,
 2a02:4780:13::/48,BR,BR-SP,Sao Paulo,
@@ -608,7 +609,7 @@
 193.58.105.0/24,FR,FR-75C,Paris,
 193.203.168.0/22,FR,FR-75C,Paris,
 193.203.188.0/22,FR,FR-75C,Paris,
-194.164.72.0/21,FR,FR-75C,Paris
+194.164.72.0/21,FR,FR-75C,Paris,
 194.55.132.0/23,FR,FR-75C,Paris,
 195.35.0.0/22,FR,FR-75C,Paris,
 195.35.24.0/22,FR,FR-75C,Paris,
