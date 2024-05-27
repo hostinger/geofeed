@@ -503,7 +503,7 @@
 2a02:4780:10::/48,US,US-AZ,Phoenix,
 2a02:4780:21::/48,US,US-AZ,Phoenix,
 2a02:4780:22::/48,US,US-AZ,Phoenix,
-2a02:4780:40::/48,US,US-AZ,Phoenix,
+2a02:4780:3e::/48,US,US-AZ,Phoenix,
 # Prefixes located at Netherlands,,,,
 2.57.88.0/23,NL,NL-DR,Meppel,
 31.187.76.0/24,NL,NL-DR,Meppel,
