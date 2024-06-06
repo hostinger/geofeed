@@ -1,4 +1,4 @@
-# Hostinger International Limited 2024-06-03,,,,
+# Hostinger International Limited 2024-06-06,,,,
 # Prefixes located at Brazil,,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo,
 45.14.88.0/23,BR,BR-SP,Sao Paulo,
@@ -32,6 +32,8 @@
 89.116.224.0/23,BR,BR-SP,Sao Paulo,
 89.117.6.0/23,BR,BR-SP,Sao Paulo,
 89.117.32.0/23,BR,BR-SP,Sao Paulo,
+85.209.92.0/23,BR,BR-SP,Sao Paulo,
+85.209.94.0/23,BR,BR-SP,Sao Paulo,
 91.108.124.0/22,BR,BR-SP,Sao Paulo,
 93.127.188.0/23,BR,BR-SP,Sao Paulo,
 93.127.190.0/23,BR,BR-SP,Sao Paulo,
@@ -194,6 +196,8 @@
 185.77.97.0/24,GB,GB-MAN,Manchester,
 191.101.80.0/23,GB,GB-MAN,Manchester,
 194.11.154.0/23,GB,GB-MAN,Manchester,
+194.36.184.0/23,GB,GB-MAN,Manchester,
+194.36.186.0/23,GB,GB-MAN,Manchester,
 195.35.30.0/23,GB,GB-MAN,Manchester,
 195.35.50.0/23,GB,GB-MAN,Manchester,
 195.110.58.0/23,GB,GB-MAN,Manchester,
@@ -608,6 +612,8 @@
 154.56.32.0/23,FR,FR-75C,Paris,
 154.56.56.0/22,FR,FR-75C,Paris,
 178.16.128.0/22,FR,FR-75C,Paris,
+185.97.144.0/23,FR,FR-75C,Paris
+185.97.146.0/23,FR,FR-75C,Paris
 185.158.107.0/24,FR,FR-75C,Paris,
 185.158.132.0/24,FR,FR-75C,Paris,
 185.166.36.0/24,FR,FR-75C,Paris,
