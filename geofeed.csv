@@ -682,3 +682,5 @@
 # Prefixes located at South Africa (Johannesburg),,,,
 5.252.75.0/24,ZA,ZA-GP,Johannesburg,
 88.222.223.0/24,ZA,ZA-GP,Johannesburg,
+2a02:4780:46::/48,ZA,ZA-GP,Johannesburg,
+2a02:4780:47::/48,ZA,ZA-GP,Johannesburg,
