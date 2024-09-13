@@ -686,6 +686,7 @@
 2a02:4780:2d::/48,US,US-MA,Boston,
 # Prefixes located at Germany (Frankfurt am Main),,,,
 92.113.16.0/21,DE,DE-HE,Frankfurt,
+88.222.220.0/23,DE,DE-HE,Frankfurt,
 2a02:4780:3f::/48,DE,DE-HE,Frankfurt,
 2a02:4780:40::/48,DE,DE-HE,Frankfurt,
 2a02:4780:41::/48,DE,DE-HE,Frankfurt,
