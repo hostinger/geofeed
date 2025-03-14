@@ -777,7 +777,7 @@
 91.108.99.0/24,AU,AU-NSW,Sydney,
 2a02:4780:48::/48,AU,AU-NSW,Sydney,
 2a02:4780:49::/48,AU,AU-NSW,Sydney,
-# Prefixes located at Japan (Tokyo)
+# Prefixes located at Japan (Tokyo),,,,
 147.93.77.0/24,JP,JP,JP-13,Tokyo,
 213.210.57.0/24,JP,JP-13,Tokyo,
 2a02:4780:52::/48,JP,JP-13,Tokyo,
