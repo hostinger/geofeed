@@ -185,6 +185,7 @@
 2a02:4780:1c::/48,ID,ID-JK,Jakarta,
 2a02:4780:3a::/48,ID,ID-JK,Jakarta,
 2a02:4780:3b::/48,ID,ID-JK,Jakarta,
+2a02:4780:59::/48,ID,ID-JK,Jakarta,
 # Prefixes located at United Kingdom,,,,
 2.57.90.0/24,GB,GB-MAN,Manchester,
 5.180.60.0/24,GB,GB-MAN,Manchester,
