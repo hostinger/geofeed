@@ -1,4 +1,4 @@
-# Hostinger International Limited 2025-04-15,,,,
+# Hostinger International Limited 2025-05-29,,,,
 # Prefixes located at Brazil,,,,
 2.59.150.0/24,BR,BR-SP,Sao Paulo,
 31.97.151.0/24,BR,BR-SP,Sao Paulo,
@@ -661,6 +661,7 @@
 2a02:4780:32::/48,NL,NL-DR,Meppel,
 2a02:4780:33::/48,NL,NL-DR,Meppel,
 # Prefixes located at France,,,,
+31.97.3.0/24,FR,FR-75C,Paris,
 31.97.152.0/21,FR,FR-75C,Paris,
 31.97.176.0/23,FR,FR-75C,Paris,
 31.97.178.0/24,FR,FR-75C,Paris,
