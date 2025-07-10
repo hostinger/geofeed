@@ -870,7 +870,7 @@
 2a02:4780:52::/48,JP,JP-13,Tokyo,
 2a02:4780:53::/48,JP,JP-13,Tokyo,
 # Prefixes located at Malaysia (Kuala Lumpur),,,,
-148.222.53.0/24,MY,MY-14,Kuala Lumpur,
 31.97.70.0/23,MY,MY-14,Kuala Lumpur,
 31.97.188.0/22,MY,MY-14,Kuala Lumpur,
 145.79.24.0/21,MY,MY-14,Kuala Lumpur,
+148.222.53.0/24,MY,MY-14,Kuala Lumpur,
