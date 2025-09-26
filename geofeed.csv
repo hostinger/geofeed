@@ -803,6 +803,7 @@
 2a02:4780:36::/48,FR,FR-75C,Paris,
 2a02:4780:37::/48,FR,FR-75C,Paris,
 2a02:4780:5a::/48,FR,FR-75C,Paris,
+2a02:4780:6b::/48,FR,FR-75C,Paris,
 # Prefixes located at United States (Boston),,,,
 31.97.8.0/21,US,US-MA,Boston,
 31.97.40.0/22,US,US-MA,Boston,
