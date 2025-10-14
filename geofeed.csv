@@ -944,3 +944,8 @@
 2a02:4780:5f::/48,MY,MY-14,Kuala Lumpur,
 2a02:4780:60::/48,MY,MY-14,Kuala Lumpur,
 2a02:4780:6a::/48,MY,MY-14,Kuala Lumpur,
+# Prefixes located at Chile (Santiago),,,,
+77.37.85.0/24,CL,CL-RM,Santiago,
+185.249.224.0/24,CL,CL-RM,Santiago,
+2a02:4780:71::/48,CL,CL-RM,Santiago,
+2a02:4780:72::/48,CL,CL-RM,Santiago,
