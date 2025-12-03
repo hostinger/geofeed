@@ -1,10 +1,10 @@
-# Hostinger International Limited
-# Prefixes located at Australia - Sydney
+# Hostinger International Limited,,
+# Prefixes located at Australia - Sydney,,
 37.98.151.0/24,AU,Sydney
 91.108.99.0/24,AU,Sydney
 2a02:4780:48::/48,AU,Sydney
 2a02:4780:49::/48,AU,Sydney
-# Prefixes located at Brazil - Campinas
+# Prefixes located at Brazil - Campinas,,
 72.61.24.0/21,BR,Campinas
 145.79.52.0/22,BR,Campinas
 2a02:4780:6c::/48,BR,Campinas
@@ -12,7 +12,7 @@
 2a02:4780:6e::/48,BR,Campinas
 2a02:4780:6f::/48,BR,Campinas
 2a02:4780:70::/48,BR,Campinas
-# Prefixes located at Brazil - Sao Paulo
+# Prefixes located at Brazil - Sao Paulo,,
 2.59.150.0/24,BR,Sao Paulo
 31.97.16.0/20,BR,Sao Paulo
 31.97.64.0/24,BR,Sao Paulo
@@ -133,12 +133,12 @@
 2a02:4780:2f::/48,BR,Sao Paulo
 2a02:4780:56::/48,BR,Sao Paulo
 2a02:4780:66::/48,BR,Sao Paulo
-# Prefixes located at Chile - Santiago
+# Prefixes located at Chile - Santiago,,
 77.37.85.0/24,CL,Santiago
 185.249.224.0/24,CL,Santiago
 2a02:4780:71::/48,CL,Santiago
 2a02:4780:72::/48,CL,Santiago
-# Prefixes located at France - Paris
+# Prefixes located at France - Paris,,
 31.97.3.0/24,FR,Paris
 31.97.52.0/22,FR,Paris
 31.97.68.0/23,FR,Paris
@@ -247,7 +247,7 @@
 2a02:4780:37::/48,FR,Paris
 2a02:4780:5a::/48,FR,Paris
 2a02:4780:6b::/48,FR,Paris
-# Prefixes located at Germany - Frankfurt
+# Prefixes located at Germany - Frankfurt,,
 31.97.32.0/21,DE,Frankfurt
 31.97.44.0/22,DE,Frankfurt
 31.97.76.0/22,DE,Frankfurt
@@ -299,7 +299,7 @@
 2a02:4780:45::/48,DE,Frankfurt
 2a02:4780:55::/48,DE,Frankfurt
 2a02:4780:5b::/48,DE,Frankfurt
-# Prefixes located at India - Mumbai
+# Prefixes located at India - Mumbai,,
 31.97.2.0/24,IN,Mumbai
 31.97.60.0/22,IN,Mumbai
 31.97.186.0/24,IN,Mumbai
@@ -396,7 +396,7 @@
 2a02:4780:63::/48,IN,Mumbai
 2a02:4780:64::/48,IN,Mumbai
 2a02:4780:65::/48,IN,Mumbai
-# Prefixes located at Indonesia - Jakarta
+# Prefixes located at Indonesia - Jakarta,,
 31.97.0.0/23,ID,Jakarta
 31.97.48.0/22,ID,Jakarta
 31.97.66.0/23,ID,Jakarta
@@ -439,12 +439,12 @@
 2a02:4780:3b::/48,ID,Jakarta
 2a02:4780:59::/48,ID,Jakarta
 2a02:4780:67::/48,ID,Jakarta
-# Prefixes located at Japan - Tokyo
+# Prefixes located at Japan - Tokyo,,
 147.93.77.0/24,JP,Tokyo
 213.210.57.0/24,JP,Tokyo
 2a02:4780:52::/48,JP,Tokyo
 2a02:4780:53::/48,JP,Tokyo
-# Prefixes located at Lithuania - Vilnius
+# Prefixes located at Lithuania - Vilnius,,
 31.97.72.0/22,LT,Vilnius
 45.84.204.0/22,LT,Vilnius
 45.88.196.0/22,LT,Vilnius
@@ -501,7 +501,7 @@
 2a02:4780:31::/48,LT,Vilnius
 2a02:4780:69::/48,LT,Vilnius
 2a02:4780:dead::/48,LT,Vilnius
-# Prefixes located at Malaysia - Kuala Lumpur
+# Prefixes located at Malaysia - Kuala Lumpur,,
 31.97.70.0/23,MY,Kuala Lumpur
 31.97.188.0/22,MY,Kuala Lumpur
 72.60.40.0/22,MY,Kuala Lumpur
@@ -521,7 +521,7 @@
 2a02:4780:5f::/48,MY,Kuala Lumpur
 2a02:4780:60::/48,MY,Kuala Lumpur
 2a02:4780:6a::/48,MY,Kuala Lumpur
-# Prefixes located at Netherlands - Meppel
+# Prefixes located at Netherlands - Meppel,,
 2.57.88.0/23,NL,Meppel
 31.187.76.0/24,NL,Meppel
 45.9.188.0/22,NL,Meppel
@@ -570,7 +570,7 @@
 2a02:4780:24::/48,NL,Meppel
 2a02:4780:32::/48,NL,Meppel
 2a02:4780:33::/48,NL,Meppel
-# Prefixes located at Singapore - Singapore
+# Prefixes located at Singapore - Singapore,,
 5.181.216.0/23,SG,Singapore
 31.187.75.0/24,SG,Singapore
 31.220.6.0/24,SG,Singapore
@@ -633,12 +633,12 @@
 2a02:4780:16::/48,SG,Singapore
 2a02:4780:38::/48,SG,Singapore
 2a02:4780:39::/48,SG,Singapore
-# Prefixes located at South Africa - Johannesburg
+# Prefixes located at South Africa - Johannesburg,,
 5.252.75.0/24,ZA,Johannesburg
 88.222.223.0/24,ZA,Johannesburg
 2a02:4780:46::/48,ZA,Johannesburg
 2a02:4780:47::/48,ZA,Johannesburg
-# Prefixes located at United Kingdom - Manchester
+# Prefixes located at United Kingdom - Manchester,,
 2.57.90.0/24,GB,Manchester
 5.180.60.0/24,GB,Manchester
 5.182.18.0/24,GB,Manchester
@@ -717,7 +717,7 @@
 2a02:4780:34::/48,GB,Manchester
 2a02:4780:35::/48,GB,Manchester
 2a02:4780:68::/48,GB,Manchester
-# Prefixes located at United States - Asheville
+# Prefixes located at United States - Asheville,,
 5.183.10.0/24,US,Asheville
 31.170.160.0/22,US,Asheville
 31.170.166.0/23,US,Asheville
@@ -770,7 +770,7 @@
 2a02:4780:1e::/48,US,Asheville
 2a02:4780:21::/48,US,Asheville
 2a02:4780:22::/48,US,Asheville
-# Prefixes located at United States - Boston
+# Prefixes located at United States - Boston,,
 5.181.218.0/24,US,Boston
 31.97.8.0/21,US,Boston
 31.97.40.0/22,US,Boston
@@ -840,7 +840,7 @@
 2a02:4780:75::/48,US,Boston
 2a02:4780:76::/48,US,Boston
 2a02:4780:77::/48,US,Boston
-# Prefixes located at United States - Phoenix
+# Prefixes located at United States - Phoenix,,
 5.183.8.0/23,US,Phoenix
 5.183.11.0/24,US,Phoenix
 31.97.208.0/21,US,Phoenix
