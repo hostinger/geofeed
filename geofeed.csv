@@ -776,6 +776,7 @@
 2a02:4780:34::/48,GB,,Manchester,
 2a02:4780:35::/48,GB,,Manchester,
 2a02:4780:68::/48,GB,,Manchester,
+2a02:4780:7b::/48,GB,,Manchester,
 # Prefixes located at United States - Asheville,,,,
 5.183.10.0/24,US,,Asheville,
 31.170.160.0/22,US,,Asheville,
