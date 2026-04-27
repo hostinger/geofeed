@@ -1008,6 +1008,7 @@
 2a02:4780:f7::/48,US,,Asheville,
 # Prefixes located at United States - Boston,,,,
 2.24.16.0/20,US,,Boston,
+2.24.64.0/18,US,,Boston,
 2.24.192.0/19,US,,Boston,
 5.181.218.0/24,US,,Boston,
 31.97.4.0/22,US,,Boston,
