@@ -268,6 +268,7 @@
 2a02:4780:37::/48,FR,,Paris,
 2a02:4780:5a::/48,FR,,Paris,
 2a02:4780:6b::/48,FR,,Paris,
+2a02:4780:81::/48,FR,,Paris,
 2a02:4780:82::/48,FR,,Paris,
 # Prefixes located at Germany - Düsseldorf,,,,
 2.24.0.0/21,DE,,Düsseldorf,
