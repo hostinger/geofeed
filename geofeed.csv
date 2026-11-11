@@ -290,6 +290,7 @@
 2a02:4780:7e::/48,DE,,Düsseldorf,
 2a02:4780:7f::/48,DE,,Düsseldorf,
 2a02:4780:80::/48,DE,,Düsseldorf,
+2a02:4780:9e::/48,DE,,Düsseldorf,
 # Prefixes located at Germany - Frankfurt,,,,
 31.97.32.0/21,DE,,Frankfurt,
 31.97.44.0/22,DE,,Frankfurt,
