@@ -281,6 +281,7 @@
 2a02:4780:83::/48,FR,,Paris,
 # Prefixes located at Germany - Düsseldorf,,,,
 2.24.0.0/21,DE,,Düsseldorf,
+2.24.144.0/20,DE,,Düsseldorf,
 93.127.187.0/24,DE,,Düsseldorf,
 179.67.192.0/19,DE,,Düsseldorf,
 179.198.192.0/19,DE,,Düsseldorf,
